@@ -1,8 +1,8 @@
 class Clickhouse < Formula
   desc "is an open-source column-oriented database management system."
   homepage "https://clickhouse.yandex/"
-  url "https://github.com/yandex/ClickHouse/archive/v1.1.54292-stable.zip"
-  version "1.1.54292"
+  url "https://github.com/hatarist/homebrew-clickhouse/releases/download/bottle/clickhouse-1.1.54198.el_capitan.bottle.tar.gz"
+  version "1.1.54198"
   sha256 "2c5bcd8a6fb72fb35ee4f40128b950c5e43abf7e81ec59b759b9281334494f7f"
 
   devel do
